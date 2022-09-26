@@ -33,7 +33,7 @@ public class Block {
 
     @Override
     public String toString() {
-        return "Previous Hash: "+this.previousHash+" "+l;
+        return "Previous Hash: "+this.previousHash+", Transaction: "+l+", ";
     }
     
 }
