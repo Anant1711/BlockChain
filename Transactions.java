@@ -37,7 +37,7 @@ public class Transactions {
     }
     @Override
     public String toString() {
-        return "Source: "+this.source+" Destination: "+this.destination+" Amount: "+this.Money;
+        return "Source: "+this.source+", Destination: "+this.destination+", Amount: "+this.Money;
     }
     
 }
