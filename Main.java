@@ -1,3 +1,4 @@
+//Main file 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -29,9 +30,6 @@ public class Main {
         System.out.println(block1+" Block Hash: "+block1.hashCode());
         System.out.println(block2+" Block Hash: "+block2.hashCode());
         System.out.println(blocktemp+" Block Hash: "+blocktemp.hashCode());
-        System.out.println("####################################");
-        
+        System.out.println("####################################");        
     }
-
-       
 }
