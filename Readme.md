@@ -1,4 +1,5 @@
 # Blockchain
+![Banner](.idea/banner%20(2).jpg)
 #### Blockchain is decentralized, immutable digital ledger that stores the transactional records. 
 
 #### Blockchain is made up of multiple blocks which stores one transactional records. These Blocks has 3 sub-parts `Previous Block Hash`, `Transaction Details` and `Block Hash`. 
